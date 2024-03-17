@@ -60,6 +60,12 @@ My development approach focuses on creating solutions that are simple, lightweig
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lbartoletti&theme=nord&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+  <a href="https://www.buymeacoffee.com/lbartoletti" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px">
+  </a>
+</div>
+
 <!--
 **lbartoletti/lbartoletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
