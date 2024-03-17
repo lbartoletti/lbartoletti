@@ -51,6 +51,15 @@ My development approach focuses on creating solutions that are simple, lightweig
 
 - And still re learning C, C++, Python and Nim
 
+### Stats / Badges
+
+
+![lbartoletti's GitHub stats](https://github-readme-stats-rust-one-38.vercel.app/api?username=lbartoletti&count_private=true&include_all_commits=true&show_icons=true&theme=nord)
+
+![Top Langs](https://github-readme-stats-rust-one-38.vercel.app/api/top-langs/?username=lbartoletti&langs_count=10&layout=compact&theme=nord)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lbartoletti&theme=nord&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **lbartoletti/lbartoletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
