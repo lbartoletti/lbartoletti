@@ -19,15 +19,15 @@ My development approach focuses on creating solutions that are simple, lightweig
 - [LinkedIn](https://www.linkedin.com/in/lbartoletti/)
 - No more twitter nor mastodon
 
-### ## 🔭 I’m currently working on
+### 🔭 I’m currently working on
 
-### Professional Projects:
+#### Professional Projects:
 
 - As a Core Committer for [QGIS](https://www.qgis.org/), [PostGIS](http://postgis.net/), and [SFCGAL](https://sfcgal.org/) at [Oslandia](https://oslandia.com/en/), I'm actively involved in enhancing and maintaining these critical geospatial tools.
 
 - Occasionally, I contribute to other projects within the [OSGeo](https://osgeo.org/) community, focusing on improving various open-source geospatial technologies.
 
-### Personal Projects:
+#### Personal Projects:
 
 - I'm currently working on several projects using Nim:
 
